@@ -1,0 +1,17 @@
+Roll Number,Date,Present,Work Completed,Work Evaluated,Code Available,Report Available,Key Lessons
+21BCS041,01-08-2023,Y,Y,Y,Y,,Accessors and mutators
+21BCS041,08-08-2023,Y,Y,Y,Y,,"Class Construction, access modifiers"
+21BCS041,15-08-2023,Y,Y,Y,Y,,"Matrix multiplication, addition in class paradigm"
+21BCS041,22-08-2023,Y,Y,Y,Y,Y,Constructors (types) and Destructors
+21BCS041,29-08-2023,Y,Y,Y,Y,Y,"Static, const and static const keywords"
+21BCS041,05-09-2023,Y,Y,Y,Y,Y,"Operator Overloading (relational, arithmetic) and Transient Objects"
+21BCS041,12-09-2023,Y,Y,Y,Y,Y,Subscript Operator overloading (L and R value) and insertion sort usage
+21BCS041,19-09-2023,,,,,,
+21BCS041,26-09-2023,,Y,,Y,Y,"Type Conversion - Constructors, Special operator, Operator overloading"
+21BCS041,03-10-2023,Y,Y,Y,Y,Y,Inheretence - Derived and Base class  
+21BCS041,10-10-2023,Y,Y,Y,Y,Y,"Abstract classes, Pure virtual functions"
+21BCS041,17-10-2023,Y,Y,Y,Y,Y,"Java Basics, getting familiar with syntax"
+21BCS041,24-10-2023,,,,,,
+21BCS041,31-10-2023,,,,,,
+21BCS041,07-11-2023,Y,Y,Y,Y,Y,Multi-threading
+21BCS041,14-11-2023,,Y,,Y,Y,Exception-Handling
