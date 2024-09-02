@@ -9,7 +9,7 @@ class A {
     A () {
         cout<<"base"<<endl;
     }
-    ~A () {
+    virtual ~A () {
         cout<<"base"<<endl;
     }
 };
@@ -32,5 +32,8 @@ class B: public A {
 int main() {
     A * ptr=new B();
     delete ptr;
+
+    // virtual base - reverse order called
+    // no virtual base - only base called
     return 0;
 }
